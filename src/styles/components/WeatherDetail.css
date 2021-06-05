@@ -1,0 +1,32 @@
+/* .card {
+  display: block !important;
+  min-width: 275px;
+  margin: 0.5rem;
+} */
+
+.body__card {
+  padding-bottom: 0 !important;
+}
+
+.title {
+  margin-left: 0 !important;
+  padding: 0 !important;
+}
+
+.footer__content {
+  padding: 16px !important;
+}
+.footer__favorite{
+  background-color: #FECE00 !important;
+  border: white !important;
+  padding-left: 0 !important;
+}
+
+.footer__favorite:hover{
+  background-color: #FDB83F !important;;
+}
+
+.footer__favorite--icon{
+  box-sizing: content-box !important;
+  padding: 0 9px !important;
+}

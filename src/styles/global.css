@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+:root {
+  --font-bg-navbar: 24px;
+  --font-sm-navbar: 18px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+}
+
+.position__section{
+  width: 100%;
+  min-height: calc(100vh - 90px);
+}
+
+.section__title{
+  padding: 10px 0;
+  width: 100%;
+  text-align: center;
+}

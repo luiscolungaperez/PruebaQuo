@@ -1,0 +1,22 @@
+.weatherList {
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
+  gap: 1rem;
+}
+
+.weatherList h2 {
+  display: inline-block;
+  margin-left: 10px ;
+}
+
+.nulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  padding: 10px;
+  margin-left: 10px ;
+}

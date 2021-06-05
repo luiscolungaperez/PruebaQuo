@@ -1,0 +1,22 @@
+.favoriteList {
+  padding: 1rem;
+}
+
+.table {
+  min-width: 650px;
+}
+
+.nulo {
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search {
+  padding: 0 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

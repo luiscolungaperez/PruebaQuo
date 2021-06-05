@@ -1,0 +1,12 @@
+.noFound {
+  width: 100%;
+  height: calc(100vh - 70px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.noFound img {
+  width: 300px;
+}
